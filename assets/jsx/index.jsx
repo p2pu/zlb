@@ -1,13 +1,9 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-import {Search, BrowseLearningCircles} from "p2pu-search-cards/dist/build-de.js";
+import { Search, BrowseLearningCircles, LearningCircleSignup } from "p2pu-components/dist/build-de.js";
 
-import "p2pu-search-cards/dist/build.css"
-import "p2pu-input-fields/dist/build.css"
-
-import SignupForm from './components/signup-form';
-import LearningCircleSignup from './components/learning-circle-signup';
+import "p2pu-components/dist/build.css"
 
 class App extends React.Component {
 
