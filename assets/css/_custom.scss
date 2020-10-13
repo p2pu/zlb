@@ -26,11 +26,10 @@ section {
 }
 
 .navbar > .logos {
-  flex-grow: 1;
 }
 
 .navbar-collapse {
-  flex-grow: unset;
+  flex-grow: 1;
 }
 
 .pattern-header {
@@ -107,7 +106,7 @@ section {
   box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.1);
 
   .logos {
-    //order: 1;
+    order: 1;
   }
 
   .navbar-toggler {

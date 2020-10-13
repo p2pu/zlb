@@ -7614,11 +7614,8 @@ section {
   padding-top: 40px;
   padding-bottom: 40px; }
 
-.navbar > .logos {
-  flex-grow: 1; }
-
 .navbar-collapse {
-  flex-grow: unset; }
+  flex-grow: 1; }
 
 .pattern-header {
   position: relative; }
@@ -7668,6 +7665,8 @@ section {
 #top-nav {
   background-color: #fff;
   box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.1); }
+  #top-nav .logos {
+    order: 1; }
   #top-nav .navbar-brand img {
     max-height: 34px; }
 
