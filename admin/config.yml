@@ -19,21 +19,14 @@ collections:
           fields:
             - { label: 'Link title', name: 'title', widget: 'string' }
             - { label: 'Link URL', name: 'url', widget: 'string' }
-        - label: 'Organization link'
-          name: 'org'
-          widget: object
-          fields:
-            - { label: 'Organization URL', name: 'url', widget: 'string' }
-            - { label: 'Organization logo', name: 'logo_url', widget: 'image'}
     - label: 'Landing page'
       name: 'index'
       file: 'index.md'
       fields:
-        - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
         - { label: 'Header', name: 'header_text', widget: 'string' }
+        - { label: 'Header video', name: 'header_video', widget: 'string' }
         - { label: 'Hero', name: 'hero', widget: 'markdown' }
         - { label: 'Search title', name: 'search_title', widget: 'string' }
-        - { label: 'Image attribution', name: 'image_attribution', widget: 'markdown', required: false }
     - label: 'About page'
       name: 'about'
       file: 'about.md'
@@ -47,20 +40,6 @@ collections:
           fields: 
           - { label: 'Question', name: 'q', widget: 'string' }
           - { label: 'Answer', name: 'a', widget: 'markdown' }
-    - label: 'Facilitate page'
-      name: facilitate
-      file: facilitate.md
-      fields:
-        - { label: 'Title', name: 'title', widget: 'string' }
-        - { label: 'Welcome message', name: 'welcome', widget: 'markdown' }
-        - { label: 'Title for resources', name: 'resources_title', widget: string }
-        - label: List of resources
-          name: resources
-          widget: list
-          fields:
-          - { label: 'Resource title', name: 'title', widget: 'string' }
-          - { label: 'Resource URL', name: 'url', widget: 'string' }
-          - { label: 'Resource image', name: 'image', widget: 'image' }
     - label: 'Course search page'
       name: courses
       file: courses.md
@@ -99,5 +78,3 @@ collections:
         fields:
         - { label: 'Title', name: 'title', widget: 'string' }
         - { label: 'URL', name: 'url' , widget: 'string'}
-
-

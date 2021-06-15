@@ -8,3 +8,15 @@ socials:
   - text: Facebook
     url: https://www.facebook.com/zentralundlandesbibliothekberlin
     icon_class: fa fa-facebook
+
+project_link: https://www.p2pu.org/
+license: Sofern nicht anders angegeben, sind alle Materialien auf dieser Website unter CC BY-SA 4.0 lizenziert.
+about_orgs: P2PU ist in Kalifornien als sog. U.S. 501(c)3 registriert.
+tos: 
+    title: Nutzungsbedingungen
+    url: /terms/
+privacy: 
+    title: Datenschutz-Bestimmungen
+    url: /privacy/
+
+

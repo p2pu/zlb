@@ -22,19 +22,19 @@
       <div class="col-12">
         <div class="notes">
           <span>
-            Sofern nicht anders angegeben, sind alle Materialien auf dieser Website unter CC BY-SA 4.0 lizenziert.
+            {{ site.data.footer.license }}
           </span>
           <span>
-            P2PU ist in Kalifornien als sog. U.S. 501(c)3 registriert.
+            {{ site.data.footer.about_orgs }}
           </span>
         </div>
 
         <div class="links">
           <span>
-            <a href="{{site.baseurl}}/terms/" class="underline">Nutzungsbedingungen</a>
+            <a href="{{site.baseurl}}{{site.data.footer.tos.url}}" class="underline">{{ site.data.footer.tos.title }}</a>
           </span>
           <span>
-            <a href="{{site.baseurl}}/privacy/" class="underline">Datenschutz-Bestimmungen</a>
+            <a href="{{site.baseurl}}{{site.data.footer.privacy.url}}" class="underline">{{ site.data.footer.privacy.title}}</a>
           </span>
         </div>
       </div>
