@@ -16,4 +16,5 @@ hero: |
   \* Kostenlos * Frei zugänglich *
 header_pattern: /assets/img/background_orange.png
 search_title: Lernteams in Berlin
+search_button: Lernteam grunden
 ---
