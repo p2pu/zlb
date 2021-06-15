@@ -1,0 +1,43 @@
+---
+layout: base
+bundles:
+- style
+---
+
+<section id="about" class="bg-secondary" data-aos="slide-up">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2>{{page.title}}</h2>
+        {{ page.about|markdownify }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="faq">
+  <div class="container">
+    <div class="row">
+      <div class="col-12" data-aos="slide-up">
+        <h2>{{page.faq_title}}</h2>
+
+        <div class="faq-questions">
+          {% for faq in page.faq %}
+            {% if faq.q != '' %}
+              <div class="faq-container mb-4" data-aos="fade">
+                <div class="question">
+                  <h3>{{faq.q}}</h3>
+                </div>
+                <div class="answer">
+                  <p>{{faq.a | markdownify}}</p>
+                </div>
+              </div>
+            {% endif %}
+          {% endfor %}
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
