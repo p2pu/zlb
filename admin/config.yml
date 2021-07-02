@@ -27,6 +27,7 @@ collections:
         - { label: 'Header video', name: 'header_video', widget: 'string' }
         - { label: 'Hero', name: 'hero', widget: 'markdown' }
         - { label: 'Search title', name: 'search_title', widget: 'string' }
+        - { label: 'Create button text', name: 'search_button', widget: 'string' }
     - label: 'About page'
       name: 'about'
       file: 'about.md'
