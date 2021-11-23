@@ -2,7 +2,7 @@ topnav:
   - title: Startseite
     url: /
   - title: Kurse
-    url: /courses
+    url: /kurse
   - title: Moderation
     url: /moderation
   - title: Teilnahme
