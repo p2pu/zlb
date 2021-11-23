@@ -1,85 +1,40 @@
 ---
-title: moderation
-about: Lernteams (learning circles) wurden 2015 von der Peer 2 Peer University
-  (P2PU) und der Öffentlichen Bibliothek Chicago ins Leben gerufen. Seitdem hat
-  sich das Modell des „Peer-Learning in Bibliotheken“ auf Bibliotheken und
-  Gemeindezentren in ganz Nordamerika, Ostafrika und Teilen Europas ausgedehnt.
-  In diesem Jahr ist die ZLB stolz darauf, zusammen mit P2PU Lernteams nach
-  Berlin zu bringen.
-faq_title: Häufig gestellte Fragen
+title: Moderation
+about: Welche Art von Kurs würdest du gerne erstellen? Welches Thema willst du mit anderen teilen? 
+Schau dir die bereits vorhandenen Kurse an. Gefällt dir ein Kurs, dann melde dich gerne an (Hier erklären wir dir wie das geht).
+Du hast keinen Kurs gefunden, der genau dein Thema bespricht?: Erstell einen eigenen Kurs. Siehe Schritt-für-Schritt Anleitung.
+Nachdem du einen Kurs erstellt hast, bewirb ihr: Erzähl deinen Freund/innen davon, teile es auf Sozialen Medien oder bring einen Zettel mit deiner Veranstaltung in die Bibliothek.
+Während des Kurses: Du musst die anderen Teilnehmer/innen nicht anleiten. Ihr erarbeitet euch das Thema zusammen. Als Moderator/in organisierst du die Lerngruppe, achtest darauf, dass der Umgang höflich ist und stellst (falls möglich) Medien vor (Bücher, Internet links usw.)
+Nach dem Kurs: Evaluation. Was lief gut, was lief nicht so gut. Was willst du das nächste Mal besser machen?
+Gratulation! Du hast es geschafft☺
+Wenn Noch Fragen bei der Erstellung eines Kurses oder auch während eines laufenden Kurses entstehen, dann melde dich gerne bei uns: machwas@zlb.de
+Weitere Materialien:
+https://wb-web.de/material/medien/lokale-lerngruppen-zu-moocs.html
+Die meisten dieser Verlinkungen sind auf Englisch. Wir versuchen so viele Informationen wie möglich zu Übersetzen. Bei einigen Bereichen dauert das etwas länger als bei anderen. Bitte hab da ein wenig Geduld. Prinzipiell bieten wir auch regelmäßig Lernzirkel für zukünftige Moderator/innen an, schau hierzu einfach auf die Kurs Seite (P2PU Berlin) oder schreib uns jederzeit bei Fragen unter der Mail machwas@zlb.de an. Egal ob es eine Frage zu einer Quelle oder Beratung zum Aufbau eines Kurses ist, wir sind gerne für dich da.
+faq_title: Schritt für Schritt Vorbereitung
 faq:
-  - q: Welche Lernmaterialien können in P2PU Lernteams verwendet werden?
-    a: Die meisten Lernteams verwenden einen kostenlosen Online-Kurs als Grundlage
-      für das Lernen. Während P2PU einige Kurse erstellt, stammen die meisten
-      Materialien von anderen Organisationen im Internet. Ihr könnt gerne einen
-      beliebigen Kurs für ein Lernteam nutzen, sofern dies für die Teilnehmenden
-      kostenlos ist und nicht gegen die Nutzungsbedingungen der/des
-      Kursanbieterin/s verstößt. Eine vollständige Liste der Kurse, die derzeit
-      von Lernteam-Moderator/innen genutzt werden, findet ihr unter
-      https://www.p2pu.org/courses/
-  - q: Welche persönlichen Daten muss ich angeben, um teilnehmen zu können?
+  - q: Schritt 1 – Orientierung
     a: >
-      Teilnehmende des Lernteams müssen kein Konto bei der Peer 2 Peer
-      University erstellen. Du kannst dich mit deinem Namen und deiner
-      Telefonnummer und/oder E-Mail-Adresse für ein Lernteam anmelden. Diese
-      Informationen werden nur von deinem/r Lernteam-Moderator/in verwendet, um
-      dich zu kontaktieren. Wenn du ein Lernteam moderieren möchtest, musst du
-      ein P2PU-Konto erstellen. Zusätzliche Fragen zum Datenschutz der Nutzenden
-      können unter support@p2pu.org beantwortet werden (zur Zeit nur auf
-      Englisch).
-  - q: Kostet es Geld, an einem Lernteam teilzunehmen?
-    a: Nein, in Lernteams kann kostenlos mitgelernt werden.
-  - q: Bekomme ich am Ende des letzten Lernteam-Treffens ein Zertifikat?
+    Mach dich mit P2PU und dem Lernteam-Modell vertraut, bevor du einen Lernzirkel erstellst. Hier kannst du dich über die Geschichte der Lernteams informieren, in den FAQs  stöbern und dich in unserer virtuellen Vermittlergemeinschaft vorstellen. -> https://community.p2pu.org/c/learning-circles/orientation/44 
+  - q: Schritt 2 – Erstellung einer Lerngruppe
     a: >
-      P2PU ist keine wirkliche Universität und bietet keine akkreditierten
-      Abschlüsse an. Einige der Online-Kurse, die von Lernteams verwendet
-      werden, vergeben einen Abschluss und/oder ein Zertifikat, aber viele davon
-      sind nicht kostenlos. Wenn Du ein Zertifikat wünschst, das den Abschluss
-      (die Teilnahme) eines Lernteams nachweist, ist dies möglich, wenn du mit
-      deinem/r Moderator/in sprichst.
-  - q: Was ist Peer 2 Peer University?
+      Um ein Lernteam durchzuführen, musst du ein Thema, einen Ort, ein Datum und eine Uhrzeit für das Treffen wählen. Hier findest du eine Diskussion darüber, wie man einen guten Online-Kurs auswählt, eine Checkliste zur Vorbereitung auf Ihren Lernzirkel sowie Vorlagen und Methoden zur Durchführung von Bedarfsanalysen in der Gemeinde. Diese Vorlagen findest du hier ->
+  - q: Schritt 3 – Kurse und Themen
+    a: Dies ist der Raum, um spezifische Kursthemen ausführlicher zu diskutieren. Du hast eine großartige neue Ressource für Webdesign-Lernzirkel gefunden? Stell sie hier ein! Nicht zufrieden mit finanzierungsbezogenen Online-Kursen? Bitte um Hilfe, um etwas Besseres zu finden! Dieser Raum hilft der Gemeinschaft, neue und bessere Ressourcen zu finden und zu schaffen, um zukünftigen Lernzirkeln zum Erfolg zu verhelfen. -> https://community.p2pu.org/c/learning-circles/courses-and-topics/69
+  - q: Schritt 4 -  Werbung und Reichweite
     a: >
-      P2PU ist eine so genannte 501c3-gemeinnützige Organisation, die in
-      Kalifornien in den Vereinigten Staaten von Amerika registriert ist und
-      Mitglieder in den USA, Kanada und Südafrika hat. Die Aufgabe der
-      Organisation ist es, gerechte, befähigende und freie Alternativen zur
-      allgemeinen (Hochschul-)Bildung zu schaffen. Die Mehrheit der Mittel für
-      P2PU stammt aus philanthropischen und öffentlichen Quellen, einschließlich
-      des Institute of Museum and Library Services, Erasmus+ der Europäischen
-      Union, Stiftungen der Open Society, Siegel Family Endowment und Knight
-      Foundation. P2PU akzeptiert auch [Spenden](https://www.p2pu.org/donate/)
-      und bietet eine [Vielzahl von
-      Dienstleistungen](https://www.p2pu.org/work-with-us/) für Organisationen
-      an, die erfolgreiche, nicht-formale Bildungsgemeinschaften entwickeln
-      möchten.
-  - q: "P2PU Werte: Peer-Learning, Gemeinschaft und Gleichheit"
-    a: >-
-      P2PU wird von drei Grundwerten geleitet.
-       
-      Peer-Learning: Grundlage unserer Arbeit ist die Überzeugung, dass Lernen eine soziale Aktivität ist. Wir glauben, dass jeder Mensch durch seine eigenen Lebenserfahrungen Wissen entwickelt, dass Menschen lernen, wenn sie sich mit anderen Menschen austauschen und miteinander in Kontakt treten und dass Feedback notwendig ist, um sich zu verbessern.
-       
-      Gemeinschaft (Community): P2PU ist ein Community-zentriertes Projekt, das sich in der gesamten Organisation von Lernteams bis zu unserem Governance-Modell widerspiegelt. Wir beziehen Lernende und Mitarbeitende in alle Phasen der Gestaltung und Durchführung unserer Arbeit ein und glauben, dass nachhaltige Lerngemeinschaften durch die Zusammenarbeit der Basis und nicht durch hierarchische Mandate geschaffen werden.
-       
-      Gleichheit (Equity): Gleichheit beim Lernen ist nur möglich, wenn wir Bildung als soziales Gut und nicht als Ware erkennen. Eine Grundvoraussetzung für diesen Wert ist die Verpflichtung, offen zu arbeiten und das Gemeinwesen, die Gemeinschaft besser zurückzulassen, als wir sie vorgefunden haben. Es ist nicht genug, Raum für den Zugriff auf Bildung zu schaffen. Systemische Ungerechtigkeit bedeutet, dass der Zugang nicht gleichberechtigt ist, und wir müssen bei jedem Schritt des Weges aktiv auf Inklusion und Zugänglichkeit achten.
-       
-      Durch die Einberufung einer Gruppe von Lernenden, die an einem ähnlichen Thema interessiert sind, hat man die Grundlage für eine offene, kollaborative Lernumgebung geschaffen, die das Potenzial hat, genau das unterstützende System zu sein, das viele Lernende benötigen. Lernkreise können eine reichhaltige, inspirierende Lernumgebung schaffen, in der jeder gleichzeitig unterrichtet und lernt, handelt und beobachtet, spricht und hört. Dies eröffnet den Lernenden neue Perspektiven, bietet die Gelegenheit, nützliche soziale Fähigkeiten zu entwickeln, und ermöglicht Einzelnen, etwas Größeres zu erreichen, als sie alleine darstellen würden.
-  - q: Kann jede/r ein Lernteam initiieren und moderieren?
-    a: Ja! Lernteams können jederzeit kostenlos erstellt werden. Alles, was man
-      braucht, ist ein Konto bei P2PU. Wir haben begonnen, einige
-      deutschsprachige Ressourcen für Moderator/innen zu schaffen, [die man hier
-      einsehen und gern auch erweitern
-      kann](https://community.p2pu.org/c/communities/p2pu-deutsch/71).
-  - q: Was ist ein P2PU Lernteam?
-    a: >-
-      Ein Lernteam ist eine Gruppe von Menschen, die sich treffen, um gemeinsam
-      etwas zu lernen. Lernteams sind:
-       - für die Öffentlichkeit zugänglich,
-       - kostenfrei für die Teilnehmenden,
-       - wiederkehrend (in der Regel zwischen 6 bis 8 Mal).
+      Nachdem du deinen Lernzirkel erstellt hast, muss du dich um die Werbung und die Öffentlichkeitsarbeit kümmern. Hier findest du Flyer-Vorlagen, Musterbotschaften zur Förderung deines Lernzirkels und Diskussionen mit anderen Moderatoren darüber, wie sie die Leute dazu bringen, sich zu zeigen. -> https://community.p2pu.org/c/learning-circles/promotion-and-outreach/46 
+  - q: Schritt 5 – Moderation
+    a: >
+      Obwohl von den Moderator/innen nicht erwartet wird, dass sie Fachexperten sind, gibt es noch viel zu beachten. Hier findest du eine Vielzahl von Tipps für neue Vermittler/innen sowie Diskussionen über häufige Fragen wie "Was ist, wenn ich die Antwort auf eine Frage nicht weiß" und "Wie schaffe ich eine unterstützende Lernumgebung". Du findest auch Gruppenaktivitäten, die du in deinem Lernzirkel durchführen kannst. -> https://community.p2pu.org/c/learning-circles/facilitation/50 
+  - q: Schritt 6 – Evaluation
+    a: >
+      Wie alle guten Dinge müssen Lernzirkel zu einem Ende kommen (in der Regel nach 6-8 Wochen). Hier kannst du über Reflexion, Bewertung, Zertifizierung und die weitere Unterstützung der Lernenden diskutieren. -> https://community.p2pu.org/c/learning-circles/reflection-and-wrap-up/51 
+  - q: Schritt 7 – Nachbereitung
+    a: >
+      Teile nach deinem Lernzirkel deine Erfahrungen mit, damit andere von deiner Reise erfahren können. Ob du eine lustige Anekdote oder eine Doktorarbeit hast, wir wollen sie hören! -> https://community.p2pu.org/c/learning-circles/testimony/56      
+      
 
-
-       
-      Darüber hinaus werden Lernteams eher von einem/r Moderator/in als von einem/r Lehrer/in geleitet. Dies bedeutet, dass die Person, die euer Lernteam moderiert und koordiniert, kein/e Experte/in für das Fach ist, das ihr gerade lernt. Sie ist da, um die Gruppe durch den Kurs zu führen und sicherzustellen, dass der Ort, an dem ihr euch trefft, jede Woche zur Verfügung steht.
 layout: about
 bundles:
   - style
