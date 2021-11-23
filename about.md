@@ -1,5 +1,5 @@
 ---
-title: Über uns
+title: FAQ
 about: Lernteams (learning circles) wurden 2015 von der Peer 2 Peer University
   (P2PU) und der Öffentlichen Bibliothek Chicago ins Leben gerufen. Seitdem hat
   sich das Modell des „Peer-Learning in Bibliotheken“ auf Bibliotheken und
@@ -76,6 +76,7 @@ faq:
        - für die Öffentlichkeit zugänglich,
        - kostenfrei für die Teilnehmenden,
        - wiederkehrend (in der Regel zwischen 6 bis 8 Mal).
+
 
        
       Darüber hinaus werden Lernteams eher von einem/r Moderator/in als von einem/r Lehrer/in geleitet. Dies bedeutet, dass die Person, die euer Lernteam moderiert und koordiniert, kein/e Experte/in für das Fach ist, das ihr gerade lernt. Sie ist da, um die Gruppe durch den Kurs zu führen und sicherzustellen, dass der Ort, an dem ihr euch trefft, jede Woche zur Verfügung steht.
