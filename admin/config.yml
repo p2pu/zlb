@@ -47,7 +47,7 @@ collections:
       fields:
         - { label: 'Title', name: 'title', widget: 'string'}
         - { label: 'About', name: 'about', widget: 'markdown'}
-        - { label: 'Body', name: 'body', widget: 'markdown'}
+        - { label: 'FAQ title', name: 'faq_title', widget: 'string'}
         - label: 'FAQ' 
           name: 'faq'
           widget: 'list' 
