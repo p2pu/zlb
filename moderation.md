@@ -1,16 +1,17 @@
 ---
 title: Moderation
-about: Welche Art von Kurs würdest du gerne erstellen? Welches Thema willst du mit anderen teilen? 
-Schau dir die bereits vorhandenen Kurse an. Gefällt dir ein Kurs, dann melde dich gerne an (Hier erklären wir dir wie das geht).
-Du hast keinen Kurs gefunden, der genau dein Thema bespricht?: Erstell einen eigenen Kurs. Siehe Schritt-für-Schritt Anleitung.
-Nachdem du einen Kurs erstellt hast, bewirb ihr: Erzähl deinen Freund/innen davon, teile es auf Sozialen Medien oder bring einen Zettel mit deiner Veranstaltung in die Bibliothek.
-Während des Kurses: Du musst die anderen Teilnehmer/innen nicht anleiten. Ihr erarbeitet euch das Thema zusammen. Als Moderator/in organisierst du die Lerngruppe, achtest darauf, dass der Umgang höflich ist und stellst (falls möglich) Medien vor (Bücher, Internet links usw.)
-Nach dem Kurs: Evaluation. Was lief gut, was lief nicht so gut. Was willst du das nächste Mal besser machen?
-Gratulation! Du hast es geschafft☺
-Wenn Noch Fragen bei der Erstellung eines Kurses oder auch während eines laufenden Kurses entstehen, dann melde dich gerne bei uns: machwas@zlb.de
-Weitere Materialien:
-https://wb-web.de/material/medien/lokale-lerngruppen-zu-moocs.html
-Die meisten dieser Verlinkungen sind auf Englisch. Wir versuchen so viele Informationen wie möglich zu Übersetzen. Bei einigen Bereichen dauert das etwas länger als bei anderen. Bitte hab da ein wenig Geduld. Prinzipiell bieten wir auch regelmäßig Lernzirkel für zukünftige Moderator/innen an, schau hierzu einfach auf die Kurs Seite (P2PU Berlin) oder schreib uns jederzeit bei Fragen unter der Mail machwas@zlb.de an. Egal ob es eine Frage zu einer Quelle oder Beratung zum Aufbau eines Kurses ist, wir sind gerne für dich da.
+about: |
+    Welche Art von Kurs würdest du gerne erstellen? Welches Thema willst du mit anderen teilen? 
+    Schau dir die bereits vorhandenen Kurse an. Gefällt dir ein Kurs, dann melde dich gerne an (Hier erklären wir dir wie das geht).
+    Du hast keinen Kurs gefunden, der genau dein Thema bespricht?: Erstell einen eigenen Kurs. Siehe Schritt-für-Schritt Anleitung.
+    Nachdem du einen Kurs erstellt hast, bewirb ihr: Erzähl deinen Freund/innen davon, teile es auf Sozialen Medien oder bring einen Zettel mit deiner Veranstaltung in die Bibliothek.
+    Während des Kurses: Du musst die anderen Teilnehmer/innen nicht anleiten. Ihr erarbeitet euch das Thema zusammen. Als Moderator/in organisierst du die Lerngruppe, achtest darauf, dass der Umgang höflich ist und stellst (falls möglich) Medien vor (Bücher, Internet links usw.)
+    Nach dem Kurs: Evaluation. Was lief gut, was lief nicht so gut. Was willst du das nächste Mal besser machen?
+    Gratulation! Du hast es geschafft☺
+    Wenn Noch Fragen bei der Erstellung eines Kurses oder auch während eines laufenden Kurses entstehen, dann melde dich gerne bei uns: machwas@zlb.de
+    Weitere Materialien:
+    https://wb-web.de/material/medien/lokale-lerngruppen-zu-moocs.html
+    Die meisten dieser Verlinkungen sind auf Englisch. Wir versuchen so viele Informationen wie möglich zu Übersetzen. Bei einigen Bereichen dauert das etwas länger als bei anderen. Bitte hab da ein wenig Geduld. Prinzipiell bieten wir auch regelmäßig Lernzirkel für zukünftige Moderator/innen an, schau hierzu einfach auf die Kurs Seite (P2PU Berlin) oder schreib uns jederzeit bei Fragen unter der Mail machwas@zlb.de an. Egal ob es eine Frage zu einer Quelle oder Beratung zum Aufbau eines Kurses ist, wir sind gerne für dich da.
 faq_title: Schritt für Schritt Vorbereitung
 faq:
   - q: Schritt 1 – Orientierung

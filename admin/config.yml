@@ -46,13 +46,20 @@ collections:
       file: 'moderation.md'
       fields:
         - { label: 'Title', name: 'title', widget: 'string'}
-        - { label: 'Moderation', name: 'moderation', widget: 'markdown'}
+        - { label: 'About', name: 'about', widget: 'markdown'}
+        - { label: 'Body', name: 'body', widget: 'markdown'}
+        - label: 'FAQ' 
+          name: 'faq'
+          widget: 'list' 
+          fields: 
+          - { label: 'Question', name: 'q', widget: 'string' }
+          - { label: 'Answer', name: 'a', widget: 'markdown' }
     - label: 'Teilnahme'
       name: 'Teilnahme'
       file: 'teilnahme.md'
       fields:
         - { label: 'Title', name: 'title', widget: 'string'}
-        - { label: 'Teilnahme', name: 'teilnahme', widget: 'markdown'}
+        - { label: 'Body', name: 'body', widget: 'markdown'}
     - label: 'Course search page'
       name: courses
       file: courses.md
