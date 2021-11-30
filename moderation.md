@@ -15,6 +15,8 @@ about: |
     Weitere Materialien:
     https://wb-web.de/material/medien/lokale-lerngruppen-zu-moocs.html
     Die meisten dieser Verlinkungen sind auf Englisch. Wir versuchen so viele Informationen wie möglich zu Übersetzen. Bei einigen Bereichen dauert das etwas länger als bei anderen. Bitte hab da ein wenig Geduld. Prinzipiell bieten wir auch regelmäßig Lernzirkel für zukünftige Moderator/innen an, schau hierzu einfach auf die Kurs Seite (P2PU Berlin) oder schreib uns jederzeit bei Fragen unter der Mail machwas@zlb.de an. Egal ob es eine Frage zu einer Quelle oder Beratung zum Aufbau eines Kurses ist, wir sind gerne für dich da.
+
+
 faq_title: Schritt für Schritt Vorbereitung
 faq:
   - q: Schritt 1 – Orientierung
