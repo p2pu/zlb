@@ -1,4 +1,7 @@
 ---
+layout: about
+bundles:
+  - style
 title: Moderation
 about: |
     Welche Art von Kurs würdest du gerne erstellen? Welches Thema willst du mit anderen teilen? 
@@ -34,9 +37,4 @@ faq:
   - q: Schritt 7 – Nachbereitung
     a: >
       Teile nach deinem Lernzirkel deine Erfahrungen mit, damit andere von deiner Reise erfahren können. Ob du eine lustige Anekdote oder eine Doktorarbeit hast, wir wollen sie hören! -> https://community.p2pu.org/c/learning-circles/testimony/56      
-      
-
-layout: about
-bundles:
-  - style
 ---
