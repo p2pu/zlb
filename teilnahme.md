@@ -1,10 +1,10 @@
 ---
 title: Teilnehmen
-about: Teilnehmen an einem Lernteam
-layout: about
+layout: basemd
 bundles:
   - style
 ---
+Teilnehmen an einem Lernteam
 
 Du willst nicht allein zu einem dich interessierenden Thema lernen? [Hier findest Du eine aktuelle Kursliste](https://berlin.p2pu.org/kurse).
 Wenn Du einen Kurs gefunden hast, melde Dich im Kurs einfach an.
