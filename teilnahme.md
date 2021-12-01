@@ -14,6 +14,6 @@ Lerne die anderen Teilnehmer/innen des Kurses kennen und dann lernt ihr gemeinsa
 
 Gib eigene Anregungen, Ideen und Tipps in die Gruppe.  
 
-Wenn du magst: Erzähl deinen Freund/innen davon, teile es gerne auf sozialen Medien. Gab es Probleme oder du hast Anregungen? Schreib uns: machwas@zlb.de  
+Wenn du magst: Erzähl deinen Freund/innen davon, teile es gerne auf sozialen Medien.
 
 Vielleicht gefällt Dir die Idee des gemeinsamen Lernens so gut, dass Du selbst einen Kurs erstellen und moderieren möchtest? Nur zu! [Hier gibt es eine Schritt für Schritt Vorbereitung](https://berlin.p2pu.org/moderation).
