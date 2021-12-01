@@ -36,8 +36,7 @@ faq:
     a: Mach dich mit P2PU und dem Lernteam-Modell vertraut, bevor du einen
       Lernzirkel erstellst. Hier kannst du dich über die Geschichte der
       Lernteams informieren, in den FAQs  stöbern und dich in unserer
-      [virtuellen Vermittlergemeinschaft
-      vorstellen](https://community.p2pu.org/c/learning-circles/orientation/44).
+      [virtuellen Vermittlergemeinschaft vorstellen](https://docs.p2pu.org/).
   - q: Schritt 2 – Erstellung einer Lerngruppe
     a: Um ein Lernteam durchzuführen, musst du ein Thema, einen Ort, ein Datum und
       eine Uhrzeit für das Treffen wählen. Hier findest du eine Diskussion
@@ -56,27 +55,27 @@ faq:
   - q: Schritt 4 -  Werbung und Reichweite
     a: Nachdem du deinen Lernzirkel erstellt hast, muss du dich um die Werbung und
       die Öffentlichkeitsarbeit kümmern. [Hier
-      findest](https://community.p2pu.org/c/learning-circles/promotion-and-outreach/46)
-      du Flyer-Vorlagen, Musterbotschaften zur Förderung deines Lernzirkels und
+      findest](https://docs.p2pu.org/facilitation/finding-participants) du
+      Flyer-Vorlagen, Musterbotschaften zur Förderung deines Lernzirkels und
       Diskussionen mit anderen Moderatoren darüber, wie sie die Leute dazu
       bringen, sich zu zeigen.
   - q: Schritt 5 – Moderation
     a: Obwohl von den Moderator/innen nicht erwartet wird, dass sie Fachexperten
       sind, gibt es noch viel zu beachten. [Hier
-      findest](https://community.p2pu.org/c/learning-circles/facilitation/50) du
-      eine Vielzahl von Tipps für neue Vermittler/innen sowie Diskussionen über
+      findest](https://docs.p2pu.org/facilitation/facilitation-basics) du eine
+      Vielzahl von Tipps für neue Vermittler/innen sowie Diskussionen über
       häufige Fragen wie "Was ist, wenn ich die Antwort auf eine Frage nicht
       weiß" und "Wie schaffe ich eine unterstützende Lernumgebung". Du findest
       auch Gruppenaktivitäten, die du in deinem Lernzirkel durchführen kannst.
   - q: Schritt 6 – Evaluation
     a: Wie alle guten Dinge müssen Lernzirkel zu einem Ende kommen (in der Regel
       nach 6-8 Wochen). [Hier
-      kannst](https://community.p2pu.org/c/learning-circles/reflection-and-wrap-up/51)
-      du über Reflexion, Bewertung, Zertifizierung und die weitere Unterstützung
-      der Lernenden diskutieren.
+      kannst](https://docs.p2pu.org/facilitation/evaluate-and-reflect) du über
+      Reflexion, Bewertung, Zertifizierung und die weitere Unterstützung der
+      Lernenden diskutieren.
   - q: Schritt 7 – Nachbereitung
     a: "[Teile nach deinem Lernzirkel deine Erfahrungen
-      mit](https://community.p2pu.org/c/learning-circles/testimony/56), damit
+      mit](https://community.p2pu.org/c/communities/p2pu-deutsch/71), damit
       andere von deiner Reise erfahren können. Ob du eine lustige Anekdote oder
       eine Doktorarbeit hast, wir wollen sie hören!"
 ---
