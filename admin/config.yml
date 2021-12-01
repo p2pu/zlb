@@ -59,6 +59,8 @@ collections:
       file: 'teilnahme.md'
       fields:
         - { label: 'Title', name: 'title', widget: 'string'}
+        - { label: 'Header Title', name: 'header_title', widget: 'string'}
+        - { label: 'Header Text', name: 'header_text', widget: 'markdown'}
         - { label: 'Body', name: 'body', widget: 'markdown'}
     - label: 'Course search page'
       name: courses

@@ -1,0 +1,29 @@
+---
+layout: base
+bundles:
+- style
+---
+
+<section id="about" class="bg-secondary" data-aos="slide-up">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2>{{page.header_title}}</h2>
+        {{ page.header_text|markdownify }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="flex-grow: 1;">
+  <div class="container">
+    <div class="row">
+      <div class="col-12" data-aos="slide-up">
+        <div class="faq-questions">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
